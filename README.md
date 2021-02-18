@@ -1,3 +1,3 @@
-## Modern food site. Interest design, good user experience , also responsive. #JS #HTML #CSS
+## Modern food site. Interesting design, good user experience and responsive. #JS #HTML #CSS
 
 # responsive-website-food
